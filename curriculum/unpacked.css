@@ -5,9 +5,9 @@ body {
 script.unpacked, pre.unpacked {
     display: block;
     font-family: monospace;
-    font-size: 14px;
+    font-size: 10px;
     white-space: pre;
-    border: 1px solid blue;
+    border: 1px solid red;
     background: #EFEFEF;
     padding: .5em 1em;
     margin: 1em;
